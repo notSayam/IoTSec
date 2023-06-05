@@ -29,3 +29,6 @@ This is a basic code meant to be hosted on a raspberry pi zero w. First you will
 5. configure a firewall rule to drop packets recieved from the device you want block or block all incoming traffic. 
 
 With both of these devices configured you should be able to deactivate any device over a network to ensure your privacy and security. 
+
+## Blog
+Added as a pdf doc attached 
